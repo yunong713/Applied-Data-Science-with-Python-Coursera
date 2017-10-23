@@ -1,5 +1,5 @@
-# Applied-Data-Science-with-Python-Coursera
 
-#### This is an intermediate level course specialization of applying Data Science using Python. 
+### Assignments of Course Applied Data Science with Python on Coursera
 
-#### Course 1: Introduction to Data Science in Python focused on using Pandas and Numpy libraries to manipuplate data.
+
+#### √ Course 1: Introduction to Data Science in Python(Pandas, Numpy).
